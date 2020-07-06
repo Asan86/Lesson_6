@@ -1,0 +1,4 @@
+include ':absolutlayout'
+include ':tablelayout'
+include ':app'
+rootProject.name = "Lesson_6"

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AbsolutLayout</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+</resources>
